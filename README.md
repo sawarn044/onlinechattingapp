@@ -1,4 +1,4 @@
-# chatapp
+# Basic Chatting App
 
 A new Flutter project.
 
